@@ -1,0 +1,66 @@
+{
+  "purchases": [
+    {
+      "id": "1",
+      "product": "Mouse",
+      "price": "R$ 10.00",
+      "description": "Mouse logitech",
+      "quantity": 1
+    },
+    {
+      "id": "2",
+      "product": "Teclado",
+      "price": "R$ 50.00",
+      "description": "Teclado logitech",
+      "quantity": 1
+    },
+    {
+      "product": "Monitor",
+      "price": "R$ 1500",
+      "description": "Monitor AOC 144HZ",
+      "quantity": "3",
+      "id": "33dHvZ9"
+    },
+    {
+      "product": "Iphone 15",
+      "price": "R$ 5.000",
+      "description": " cell phone Iphone 15 ",
+      "quantity": "1",
+      "id": "CblfJtY"
+    },
+    {
+      "product": "Jack Daniels",
+      "price": "R$ 180",
+      "description": "Whisky Jack Daniels Fire",
+      "quantity": "5",
+      "id": "vBCuTth"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john.doe@example.com.br",
+      "purchases": [
+        "1",
+        "2",
+        "33dHvZ9"
+      ]
+    },
+    {
+      "name": "Alessandro",
+      "email": "john.doe2@example.com.br",
+      "id": "2aRO3F_"
+    },
+    {
+      "name": "Alessandro",
+      "email": "ale@gmail.com",
+      "id": "oAPNnfR"
+    },
+    {
+      "name": "Alessandro Brilhante",
+      "email": "alessandroquinta3@gmail.com",
+      "id": "u4nQ85R"
+    }
+  ]
+}
